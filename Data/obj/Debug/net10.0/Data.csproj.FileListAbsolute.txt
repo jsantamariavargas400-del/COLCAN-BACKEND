@@ -1,0 +1,34 @@
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\bin\Debug\net10.0\Data.deps.json
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\bin\Debug\net10.0\Data.dll
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\bin\Debug\net10.0\Data.pdb
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\obj\Debug\net10.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\obj\Debug\net10.0\Data.AssemblyInfoInputs.cache
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\obj\Debug\net10.0\Data.AssemblyInfo.cs
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\obj\Debug\net10.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\obj\Debug\net10.0\Data.dll
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\obj\Debug\net10.0\refint\Data.dll
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\obj\Debug\net10.0\Data.pdb
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\obj\Debug\net10.0\ref\Data.dll
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\bin\Debug\net10.0\Data.runtimeconfig.json
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\bin\Debug\net10.0\Dto.dll
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\bin\Debug\net10.0\Dto.pdb
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\obj\Debug\net10.0\Data.csproj.AssemblyReference.cache
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\obj\Debug\net10.0\Data.csproj.Up2Date
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Data\obj\Debug\net10.0\Data.genruntimeconfig.cache
+C:\colcan\Colcan\Data\bin\Debug\net10.0\Data.deps.json
+C:\colcan\Colcan\Data\bin\Debug\net10.0\Data.runtimeconfig.json
+C:\colcan\Colcan\Data\bin\Debug\net10.0\Data.dll
+C:\colcan\Colcan\Data\bin\Debug\net10.0\Data.pdb
+C:\colcan\Colcan\Data\bin\Debug\net10.0\Dto.dll
+C:\colcan\Colcan\Data\bin\Debug\net10.0\Dto.pdb
+C:\colcan\Colcan\Data\obj\Debug\net10.0\Data.csproj.AssemblyReference.cache
+C:\colcan\Colcan\Data\obj\Debug\net10.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\colcan\Colcan\Data\obj\Debug\net10.0\Data.AssemblyInfoInputs.cache
+C:\colcan\Colcan\Data\obj\Debug\net10.0\Data.AssemblyInfo.cs
+C:\colcan\Colcan\Data\obj\Debug\net10.0\Data.csproj.CoreCompileInputs.cache
+C:\colcan\Colcan\Data\obj\Debug\net10.0\Data.csproj.Up2Date
+C:\colcan\Colcan\Data\obj\Debug\net10.0\Data.dll
+C:\colcan\Colcan\Data\obj\Debug\net10.0\refint\Data.dll
+C:\colcan\Colcan\Data\obj\Debug\net10.0\Data.pdb
+C:\colcan\Colcan\Data\obj\Debug\net10.0\Data.genruntimeconfig.cache
+C:\colcan\Colcan\Data\obj\Debug\net10.0\ref\Data.dll

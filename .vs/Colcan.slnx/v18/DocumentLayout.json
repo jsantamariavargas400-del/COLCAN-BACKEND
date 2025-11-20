@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\colcan\\Colcan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E63084-F341-5568-AB1D-417FE534F7CA}|Colcan\\Colcan.csproj|c:\\colcan\\colcan\\colcan\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E63084-F341-5568-AB1D-417FE534F7CA}|Colcan\\Colcan.csproj|solutionrelative:colcan\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\colcan\\colcan\\data\\context\\pacientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\context\\pacientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E63084-F341-5568-AB1D-417FE534F7CA}|Colcan\\Colcan.csproj|c:\\colcan\\colcan\\colcan\\colcan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5E63084-F341-5568-AB1D-417FE534F7CA}|Colcan\\Colcan.csproj|solutionrelative:colcan\\colcan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F02016-EB19-BCCD-8D56-0C58F454315B}|Dto\\Dto.csproj|c:\\colcan\\colcan\\dto\\models\\resultsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F02016-EB19-BCCD-8D56-0C58F454315B}|Dto\\Dto.csproj|solutionrelative:dto\\models\\resultsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E63084-F341-5568-AB1D-417FE534F7CA}|Colcan\\Colcan.csproj|c:\\colcan\\colcan\\colcan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E63084-F341-5568-AB1D-417FE534F7CA}|Colcan\\Colcan.csproj|solutionrelative:colcan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E63084-F341-5568-AB1D-417FE534F7CA}|Colcan\\Colcan.csproj|c:\\colcan\\colcan\\colcan\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E63084-F341-5568-AB1D-417FE534F7CA}|Colcan\\Colcan.csproj|solutionrelative:colcan\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F02016-EB19-BCCD-8D56-0C58F454315B}|Dto\\Dto.csproj|c:\\colcan\\colcan\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0F02016-EB19-BCCD-8D56-0C58F454315B}|Dto\\Dto.csproj|solutionrelative:dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\colcan\\colcan\\data\\context\\colcancontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\context\\colcancontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F02016-EB19-BCCD-8D56-0C58F454315B}|Dto\\Dto.csproj|c:\\colcan\\colcan\\dto\\models\\maestromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F02016-EB19-BCCD-8D56-0C58F454315B}|Dto\\Dto.csproj|solutionrelative:dto\\models\\maestromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\colcan\\colcan\\data\\context\\maestroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\context\\maestroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E63084-F341-5568-AB1D-417FE534F7CA}|Colcan\\Colcan.csproj|c:\\colcan\\colcan\\colcan\\controllers\\maestrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E63084-F341-5568-AB1D-417FE534F7CA}|Colcan\\Colcan.csproj|solutionrelative:colcan\\controllers\\maestrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|c:\\colcan\\colcan\\data\\datainterface\\imaestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E2E54-CA0B-F6F5-0102-F79722AD1421}|Data\\Data.csproj|solutionrelative:data\\datainterface\\imaestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E63084-F341-5568-AB1D-417FE534F7CA}|Colcan\\Colcan.csproj|c:\\colcan\\colcan\\colcan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5E63084-F341-5568-AB1D-417FE534F7CA}|Colcan\\Colcan.csproj|solutionrelative:colcan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F02016-EB19-BCCD-8D56-0C58F454315B}|Dto\\Dto.csproj|c:\\colcan\\colcan\\dto\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F02016-EB19-BCCD-8D56-0C58F454315B}|Dto\\Dto.csproj|solutionrelative:dto\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0F02016-EB19-BCCD-8D56-0C58F454315B}|Dto\\Dto.csproj|c:\\colcan\\colcan\\dto\\models\\pacientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0F02016-EB19-BCCD-8D56-0C58F454315B}|Dto\\Dto.csproj|solutionrelative:dto\\models\\pacientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacienteContext.cs",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Data\\Context\\PacienteContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\PacienteContext.cs",
+              "ToolTip": "C:\\colcan\\Colcan\\Data\\Context\\PacienteContext.cs",
+              "RelativeToolTip": "Data\\Context\\PacienteContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAxwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:32:52.046Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Colcan.csproj",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Colcan\\Colcan.csproj",
+              "RelativeDocumentMoniker": "Colcan\\Colcan.csproj",
+              "ToolTip": "C:\\colcan\\Colcan\\Colcan\\Colcan.csproj",
+              "RelativeToolTip": "Colcan\\Colcan.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T01:57:02.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultSp.cs",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Dto\\Models\\ResultSp.cs",
+              "RelativeDocumentMoniker": "Dto\\Models\\ResultSp.cs",
+              "ToolTip": "C:\\colcan\\Colcan\\Dto\\Models\\ResultSp.cs",
+              "RelativeToolTip": "Dto\\Models\\ResultSp.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA2wBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:45:16.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Colcan\\Program.cs",
+              "RelativeDocumentMoniker": "Colcan\\Program.cs",
+              "ToolTip": "C:\\colcan\\Colcan\\Colcan\\Program.cs",
+              "RelativeToolTip": "Colcan\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:15:13.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Colcan\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "Colcan\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\colcan\\Colcan\\Colcan\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "Colcan\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAASwEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:41:07.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Colcan\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Colcan\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\colcan\\Colcan\\Colcan\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Colcan\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T01:57:29.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dto.csproj",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Dto\\Dto.csproj",
+              "RelativeDocumentMoniker": "Dto\\Dto.csproj",
+              "ToolTip": "C:\\colcan\\Colcan\\Dto\\Dto.csproj",
+              "RelativeToolTip": "Dto\\Dto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T02:11:23.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColcanContex.cs",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Data\\Context\\ColcanContex.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\ColcanContex.cs",
+              "ToolTip": "C:\\colcan\\Colcan\\Data\\Context\\ColcanContex.cs",
+              "RelativeToolTip": "Data\\Context\\ColcanContex.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:18:43.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaestroModel.cs",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Dto\\Models\\MaestroModel.cs",
+              "RelativeDocumentMoniker": "Dto\\Models\\MaestroModel.cs",
+              "ToolTip": "C:\\colcan\\Colcan\\Dto\\Models\\MaestroModel.cs",
+              "RelativeToolTip": "Dto\\Models\\MaestroModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:31:59.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaestrosContext.cs",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Data\\Context\\MaestrosContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\MaestrosContext.cs",
+              "ToolTip": "C:\\colcan\\Colcan\\Data\\Context\\MaestrosContext.cs",
+              "RelativeToolTip": "Data\\Context\\MaestrosContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:34:14.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MaestroController.cs",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Colcan\\Controllers\\MaestroController.cs",
+              "RelativeDocumentMoniker": "Colcan\\Controllers\\MaestroController.cs",
+              "ToolTip": "C:\\colcan\\Colcan\\Colcan\\Controllers\\MaestroController.cs",
+              "RelativeToolTip": "Colcan\\Controllers\\MaestroController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T23:32:21.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMaestro.cs",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Data\\DataInterface\\IMaestro.cs",
+              "RelativeDocumentMoniker": "Data\\DataInterface\\IMaestro.cs",
+              "ToolTip": "C:\\colcan\\Colcan\\Data\\DataInterface\\IMaestro.cs",
+              "RelativeToolTip": "Data\\DataInterface\\IMaestro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:34:56.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Colcan\\appsettings.json",
+              "RelativeDocumentMoniker": "Colcan\\appsettings.json",
+              "ToolTip": "C:\\colcan\\Colcan\\Colcan\\appsettings.json",
+              "RelativeToolTip": "Colcan\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-19T20:12:00.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Dto\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "Dto\\Models\\Response.cs",
+              "ToolTip": "C:\\colcan\\Colcan\\Dto\\Models\\Response.cs",
+              "RelativeToolTip": "Dto\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:51:44.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PacienteModel.cs",
+              "DocumentMoniker": "C:\\colcan\\Colcan\\Dto\\Models\\PacienteModel.cs",
+              "RelativeDocumentMoniker": "Dto\\Models\\PacienteModel.cs",
+              "ToolTip": "C:\\colcan\\Colcan\\Dto\\Models\\PacienteModel.cs",
+              "RelativeToolTip": "Dto\\Models\\PacienteModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:48:19.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

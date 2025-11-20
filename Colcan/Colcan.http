@@ -1,0 +1,6 @@
+@Colcan_HostAddress = http://localhost:5111
+
+GET {{Colcan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

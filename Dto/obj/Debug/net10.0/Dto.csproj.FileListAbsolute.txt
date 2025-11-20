@@ -1,0 +1,22 @@
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Dto\bin\Debug\net10.0\Dto.deps.json
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Dto\bin\Debug\net10.0\Dto.dll
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Dto\bin\Debug\net10.0\Dto.pdb
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Dto\obj\Debug\net10.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Dto\obj\Debug\net10.0\Dto.AssemblyInfoInputs.cache
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Dto\obj\Debug\net10.0\Dto.AssemblyInfo.cs
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Dto\obj\Debug\net10.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Dto\obj\Debug\net10.0\Dto.dll
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Dto\obj\Debug\net10.0\refint\Dto.dll
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Dto\obj\Debug\net10.0\Dto.pdb
+C:\Users\JhonAlejandroSantama\OneDrive - Exxe Logistica\Documentos\a_colcan\Colcan\Dto\obj\Debug\net10.0\ref\Dto.dll
+C:\colcan\Colcan\Dto\bin\Debug\net10.0\Dto.deps.json
+C:\colcan\Colcan\Dto\bin\Debug\net10.0\Dto.dll
+C:\colcan\Colcan\Dto\bin\Debug\net10.0\Dto.pdb
+C:\colcan\Colcan\Dto\obj\Debug\net10.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\colcan\Colcan\Dto\obj\Debug\net10.0\Dto.AssemblyInfoInputs.cache
+C:\colcan\Colcan\Dto\obj\Debug\net10.0\Dto.AssemblyInfo.cs
+C:\colcan\Colcan\Dto\obj\Debug\net10.0\Dto.csproj.CoreCompileInputs.cache
+C:\colcan\Colcan\Dto\obj\Debug\net10.0\Dto.dll
+C:\colcan\Colcan\Dto\obj\Debug\net10.0\refint\Dto.dll
+C:\colcan\Colcan\Dto\obj\Debug\net10.0\Dto.pdb
+C:\colcan\Colcan\Dto\obj\Debug\net10.0\ref\Dto.dll
